@@ -1,0 +1,6 @@
+print("Datos Primera Evaluación :")
+name = input("Ingrese su nombre :")
+lastname = input("Ingrese su apellido :")
+sectioncode = input("ingresar codigo de sección : ")
+sede = input("Ingrese su sede : ")
+print("Su nombre es :"+ name,"\n Apellido :"+ lastname,"\n Su sección: "+ sectioncode,"\n Su sede es :"+ sede  )
